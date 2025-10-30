@@ -5,6 +5,8 @@ A modern React + Vite interface for the News RAG backend. It provides a chat UI,
 
 Deployed and accessible here: https://news-rag-system.netlify.app/
 
+Backend Repository: https://github.com/ajith736/news-rag-backend
+
 ## Features
 - Chat UI with streaming-like UX and automatic scroll
 - Session persistence across reloads (localStorage)

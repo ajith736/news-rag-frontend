@@ -1,6 +1,7 @@
 # NewsWise AI — Frontend
 
 A modern React + Vite interface for the News RAG backend. It provides a chat UI, session persistence, RAG refresh controls, and a polished UX suitable for desktop.
+Deployed and accessible here: https://news-rag-system.netlify.app/
 
 ## Features
 - Chat UI with streaming-like UX and automatic scroll
